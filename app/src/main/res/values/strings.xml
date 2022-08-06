@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Background Thread</string>
-    <string name="start_task">Start Task</string>
+    <string name="start_task_without_background">Start Task Tanpa Background Process</string>
+    <string name="start_task">Start Task With Executor</string>
+    <string name="start_task_coroutine">Start Task With Coroutine</string>
     <string name="status">Status</string>
     <string name="hidden_text">Now you see me!</string>
     <string name="task_completed">Task Completed</string>
